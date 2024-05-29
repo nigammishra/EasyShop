@@ -1,4 +1,4 @@
-<h1 align="center"> Theme8 Demo</h1>
+<h1 align="center"> EasyShop Demo</h1>
 
 <p float="left">
   <img src="./Demo%20Images/01.png"  width = 45%/>
